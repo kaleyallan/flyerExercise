@@ -3,9 +3,41 @@
 <head>
 <title>Smith for Town Council</title>
 <meta charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
+<style>
+body {
+	text-align: center;
+	font-size: 2em;
+}
+h1 {
+	font-family: 'Anton', sans-serif;
+	font-size: 4.5em;
+	color: red;
+}
+h2{
+	font-family:'Anton', sans-serif;
+	color:blue;
+	font-size: 2.37em;
+}
+h3{
+	font-family:'Anton', sans-serif;
+	color: red;
+	font-size: 5.8em;
+}
+h4{
+	font-family: 'Anton', sans-serif;
+	color: blue;
+	font-size: 4.5em;
+	float: left;
+}
+</style>
 </head>
 <body>
-Vote Susan Smith for re-election to Lower Merion Town Council!
+<h1>VOTE FOR SUSAN SMITH</h1> 
+<img src="images.jpg">
+
+<h2>For re-election to Lower Merion</h2> 
+<h3>Town Council</h3>
 
 Susan Smith has a track record of proven results. In her previous term, she: 
 
@@ -14,6 +46,6 @@ Planned and built our new waterfront park
 
 Smith will continue to take a strong stance for education funding. She believes every child in our town needs a great education.
 
-Vote for Susan Smith November 4!
+<h4>Vote for Susan Smith November 4</h4>
 </body>
 </html>	
